@@ -1,2 +1,5 @@
 #!/bin/bash
-echo "pwd"
+#script prints the absolute path name of the current working directory.
+chmod u+x ./0-current_working_directory.sh
+bash 0-current_working_directory.sh
+
